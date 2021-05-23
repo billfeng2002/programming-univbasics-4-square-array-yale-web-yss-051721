@@ -4,4 +4,5 @@ def square_array(array)
     |index|
     array[index]=array[index]**2
   }
+  array
 end
